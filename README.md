@@ -1,13 +1,65 @@
-# React + Vite
+---
+# 📌 **Proyecto Frontend - Subida y Búsqueda de Clientes con CSV**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📖 **Descripción**
 
-Currently, two official plugins are available:
+Aplicación en React que permite la carga de archivos CSV y la búsqueda de clientes en una interfaz sencilla e intuitiva.
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 **Demo**
 
-## Expanding the ESLint configuration
+Link demo del proyecto: https://youtu.be/7cAOi8J_bBY
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# cvs-uploader-front
+---
+
+## 🔧 **Instalación y Configuración**
+
+### 1️⃣ **Clonar el Repositorio**
+
+```bash
+git clone git@github.com:Jeean1/cvs-uploader-front.git
+```
+
+### 2️⃣ **Instalar Dependencias**
+
+```bash
+npm install
+```
+
+> 📌 **Nota:** No es necesario configurar variables de entorno para el frontend.
+
+---
+
+## ▶️ **Ejecutar el Proyecto**
+
+### **1️⃣ Modo Desarrollo**
+
+```bash
+npm run dev
+```
+
+---
+
+## 🛠 **Características Principales**
+
+- 📂 **Carga de Archivos CSV**: Solo se permiten archivos con extensión `.csv`.
+- 🔍 **Búsqueda de Clientes**: Filtra información de los clientes de manera rápida.
+- 🎨 **Interfaz Moderna**: Desarrollado con **React** y **Tailwind CSS** para un diseño limpio y responsivo.
+
+---
+
+## 🔥 **Tecnologías Utilizadas**
+
+- **React.js** ⚛️
+- **Tailwind CSS** 🎨
+- **Vite** ⚡
+
+---
+
+## 📬 **Contacto**
+
+Si tienes dudas o sugerencias, contáctame en:  
+✉️ **Correo:** [giraldojeanpool@hotmail.com](mailto:giraldojeanpool@hotmail.com)  
+📌 **GitHub:** [https://github.com/Jeean1](https://github.com/Jeean1)
+
+---
